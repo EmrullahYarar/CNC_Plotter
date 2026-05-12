@@ -1,4 +1,4 @@
-# CNC_Plotter
+# CNC_Plotter(Ongoing)
 
 Project purpose is changed due to case of ink printer. It is not suitable for this job. When the spindle motor works the hole case vibrates to much to engrave PCB. The project will be revised and will be become CNC_plotter with the same equipment.
 
